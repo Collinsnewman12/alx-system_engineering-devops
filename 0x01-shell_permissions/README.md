@@ -1,1 +1,1 @@
-i am betty my README file on shell permission
+collins shell permissions
